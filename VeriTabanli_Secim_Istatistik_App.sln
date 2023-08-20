@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTabanli_Secim_Istatistik_App", "VeriTabanli_Secim_Istatistik_App\VeriTabanli_Secim_Istatistik_App.csproj", "{45BC4D17-62DF-4549-B729-2BC3E5F07CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BC4D17-62DF-4549-B729-2BC3E5F07CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BC4D17-62DF-4549-B729-2BC3E5F07CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BC4D17-62DF-4549-B729-2BC3E5F07CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BC4D17-62DF-4549-B729-2BC3E5F07CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0E15DAD-AF57-42CD-A089-46DD70E29DB7}
+	EndGlobalSection
+EndGlobal
